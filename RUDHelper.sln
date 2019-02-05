@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RUDHelper", "RUDHelper\RUDHelper.csproj", "{826690AC-97EF-459A-B2D5-D2E6F23393EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Databaser", "Databaser\Databaser.csproj", "{EA8AE06B-848D-4564-96F0-8FF9003FA421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{826690AC-97EF-459A-B2D5-D2E6F23393EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826690AC-97EF-459A-B2D5-D2E6F23393EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826690AC-97EF-459A-B2D5-D2E6F23393EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826690AC-97EF-459A-B2D5-D2E6F23393EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8AE06B-848D-4564-96F0-8FF9003FA421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8AE06B-848D-4564-96F0-8FF9003FA421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8AE06B-848D-4564-96F0-8FF9003FA421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8AE06B-848D-4564-96F0-8FF9003FA421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C00C5A05-327D-46FD-8342-AFF85D1C9B99}
+	EndGlobalSection
+EndGlobal
